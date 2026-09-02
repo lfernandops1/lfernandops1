@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/header.svg" alt="Fernando Santos — Software Developer" />
+<img width="100%" src="./assets/header-v2.svg" alt="Fernando Santos — Software Developer" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fernando-p-santos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
