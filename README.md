@@ -66,8 +66,12 @@ Produtos         TypeScript, React Native e Expo
 ## GitHub em números
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lfernandops1&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&title_color=38BDF8&icon_color=2DD4BF&text_color=CBD5E1&bg_color=0D1117&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfernandops1&layout=compact&hide_border=true&title_color=38BDF8&text_color=CBD5E1&bg_color=0D1117&langs_count=6&locale=pt-br" alt="Linguagens mais utilizadas" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lfernandops1&theme=github_dark" alt="Resumo de contribuições no GitHub" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lfernandops1&theme=github_dark" alt="Estatísticas do GitHub" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lfernandops1&theme=github_dark" alt="Repositórios por linguagem" />
 </p>
 
 ---
