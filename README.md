@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/header.svg" alt="Fernando Santos — Backend Developer" />
+<img width="100%" src="./assets/header.svg" alt="Fernando Santos — Software Developer" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fernando-p-santos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -8,15 +8,15 @@
 
 ## Sobre
 
-Desenvolvedor backend com foco em **Java e Spring Boot**, construindo APIs REST, fluxos de autenticação e soluções orientadas a domínio. Meus projetos exploram segurança com JWT, persistência com PostgreSQL, ambientes em Docker e testes automatizados.
+Desenvolvedor de software com base forte em **Java e Spring Boot**, construindo APIs REST, fluxos de autenticação e soluções orientadas a domínio. Meus projetos exploram segurança com JWT, persistência com PostgreSQL, ambientes em Docker e testes automatizados.
 
-Também desenvolvo interfaces mobile com **React Native e TypeScript**, conectando uma base sólida de backend a experiências simples e funcionais.
+No ecossistema **TypeScript**, desenvolvo interfaces web e mobile, incluindo React Native e Expo. Essa combinação conecta uma base sólida de backend a experiências simples e funcionais.
 
 ```text
 Foco atual       Java 17, Spring Boot e APIs REST
 Engenharia       Segurança, validação, testes e documentação
 Infraestrutura   PostgreSQL, Docker, Gradle e Testcontainers
-Interface        React Native, Expo e TypeScript
+Produtos         TypeScript, React Native e Expo
 ```
 
 ## Stack principal

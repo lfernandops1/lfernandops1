@@ -1,5 +1,5 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
-  <title id="title">Fernando Santos — Backend Developer</title>
+  <title id="title">Fernando Santos — Software Developer</title>
   <desc id="description">Banner profissional em tons de azul e verde para o perfil de Fernando Santos.</desc>
 
   <defs>
@@ -33,11 +33,11 @@
   <path d="M65 237H1135" stroke="url(#accent)" stroke-opacity="0.34"/>
   <path d="M64 242H480" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" filter="url(#softGlow)" opacity="0.45"/>
 
-  <rect x="64" y="50" width="170" height="30" rx="15" fill="#0F2A42" stroke="#38BDF8" stroke-opacity="0.45"/>
-  <text x="149" y="70" text-anchor="middle" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2">BACKEND DEVELOPER</text>
+  <rect x="64" y="50" width="214" height="30" rx="15" fill="#0F2A42" stroke="#38BDF8" stroke-opacity="0.45"/>
+  <text x="171" y="70" text-anchor="middle" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2">SOFTWARE DEVELOPER</text>
 
   <text x="64" y="143" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.5">Fernando Santos</text>
-  <text x="67" y="187" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" letter-spacing="0.5">APIs robustas, segurança e soluções orientadas a domínio</text>
+  <text x="67" y="187" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" letter-spacing="0.5">APIs robustas, segurança e produtos digitais</text>
 
   <text x="66" y="267" fill="#7DD3FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="1.1">JAVA 17</text>
   <circle cx="157" cy="262" r="2.5" fill="#2DD4BF"/>
