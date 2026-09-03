@@ -1,5 +1,5 @@
 <svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
-  <title id="title">Fernando Santos — Engenharia de Software, Qualidade, Produto e Docência</title>
+  <title id="title">Fernando Santos — Engenharia de Software, Qualidade, DevOps, Produto e Docência</title>
   <desc id="description">Banner profissional em tons de azul e verde para o perfil de Fernando Santos.</desc>
 
   <defs>
@@ -33,8 +33,8 @@
   <path d="M64 279H1136" stroke="url(#accent)" stroke-opacity="0.3"/>
   <path d="M64 284H596" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" filter="url(#softGlow)" opacity="0.42"/>
 
-  <rect x="64" y="48" width="356" height="32" rx="16" fill="#0E2B45" stroke="#38BDF8" stroke-opacity="0.42"/>
-  <text x="242" y="69" text-anchor="middle" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.7">ENGENHARIA / QUALIDADE / DOCÊNCIA</text>
+  <rect x="64" y="48" width="446" height="32" rx="16" fill="#0E2B45" stroke="#38BDF8" stroke-opacity="0.42"/>
+  <text x="287" y="69" text-anchor="middle" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.55">ENGENHARIA / QUALIDADE / DEVOPS / DOCÊNCIA</text>
 
   <text x="64" y="151" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">Fernando Santos</text>
   <text x="67" y="198" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" letter-spacing="0.35">Produtos digitais robustos, bem testados e bem explicados</text>
@@ -50,5 +50,7 @@
   <circle cx="508" cy="307" r="2.5" fill="#38BDF8"/>
   <text x="523" y="312" fill="#7DD3FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.05">PRODUTO</text>
   <circle cx="607" cy="307" r="2.5" fill="#2DD4BF"/>
-  <text x="622" y="312" fill="#99F6E4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.05">ENSINO</text>
+  <text x="622" y="312" fill="#99F6E4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.05">DEVOPS</text>
+  <circle cx="701" cy="307" r="2.5" fill="#38BDF8"/>
+  <text x="716" y="312" fill="#7DD3FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.05">ENSINO</text>
 </svg>

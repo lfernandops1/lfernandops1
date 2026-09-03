@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/header-v4.svg" alt="Fernando Santos — Engenharia de Software, Qualidade, Produto e Docência" />
+<img width="100%" src="./assets/header-v4.svg" alt="Fernando Santos — Engenharia de Software, Qualidade, DevOps, Produto e Docência" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fernando-p-santos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -8,9 +8,9 @@
 
 ## Perfil
 
-Sou **Engenheiro de Software, profissional de Qualidade de Software e Professor Universitário**. Minha atuação combina desenvolvimento, testes, arquitetura, documentação técnica, descoberta de produto e formação de profissionais de tecnologia.
+Sou **Engenheiro de Software, profissional de Qualidade de Software e Professor Universitário**. Minha atuação percorre o ciclo completo de um produto: descoberta e requisitos, arquitetura, desenvolvimento, testes, entrega contínua, observabilidade, documentação e formação de profissionais de tecnologia.
 
-Tenho base forte em **Java e Spring Boot** para construção de APIs, segurança e soluções orientadas a domínio. No ecossistema **TypeScript**, desenvolvo experiências web, mobile e desktop com React, Angular, React Native, Expo e Electron.
+Tenho base forte em **Java e Spring Boot** para construção de APIs, segurança e soluções orientadas a domínio. No ecossistema **TypeScript**, desenvolvo experiências web, mobile e desktop com React, Angular, React Native, Expo e Electron. Conecto essas competências a práticas de **QA, DevOps, CI/CD, containers e observabilidade**.
 
 > Transformo regras de negócio complexas em produtos compreensíveis, testáveis e sustentáveis.
 
@@ -18,7 +18,7 @@ Tenho base forte em **Java e Spring Boot** para construção de APIs, segurança
   <tr>
     <td width="25%" valign="top">
       <h3>Engenharia</h3>
-      <p>APIs, arquitetura, segurança, persistência e integração de aplicações.</p>
+      <p>APIs, arquitetura, segurança, persistência, integração e sistemas distribuídos.</p>
     </td>
     <td width="25%" valign="top">
       <h3>Qualidade</h3>
@@ -26,7 +26,7 @@ Tenho base forte em **Java e Spring Boot** para construção de APIs, segurança
     </td>
     <td width="25%" valign="top">
       <h3>Produto</h3>
-      <p>Regras de negócio, jornadas, casos de uso, backlogs e decisões técnicas.</p>
+      <p>Requisitos, jornadas, casos de uso, backlogs, viabilidade e decisões técnicas.</p>
     </td>
     <td width="25%" valign="top">
       <h3>Docência</h3>
@@ -50,6 +50,7 @@ Tenho base forte em **Java e Spring Boot** para construção de APIs, segurança
 - Produção de aulas, apresentações, avaliações, roteiros e atividades práticas.
 - Uso de live coding, Postman, Tinkercad, estudos de caso e avaliação diagnóstica.
 - Tradução de conceitos complexos em sequências didáticas progressivas e aplicáveis.
+- Formação multidisciplinar em engenharia, arquitetura, requisitos, qualidade, DevOps, redes, liderança, comunicação e fundamentos da computação.
 
 ## Resultados em contexto
 
@@ -59,6 +60,17 @@ Tenho base forte em **Java e Spring Boot** para construção de APIs, segurança
 | **28 issues estruturadas** | Backlog de implementação distribuído entre experiências mobile e administrativas, com vínculos e dependências. |
 | **16 páginas de workflow** | Guia de UX com jornadas, telas, estados, validações, exceções e cobertura funcional de um produto multiaplicação. |
 | **48 respostas analisadas** | Diagnóstico de uma turma de Java usado para adaptar o início de uma trilha prática em Spring Boot. |
+| **1.163 páginas de conteúdo** | Acervo recente de 29 materiais didáticos consolidado em 8 frentes complementares de Ciência da Computação. |
+
+## Do requisito à operação
+
+Minha experiência profissional e docente se encontra em uma visão integrada do software:
+
+| Descoberta | Estrutura | Construção | Entrega | Confiança | Evolução |
+|---|---|---|---|---|---|
+| Requisitos, stakeholders e valor | Arquitetura, dados e decisões | APIs e experiências multiplataforma | CI/CD, containers e orquestração | Testes, métricas e rastreabilidade | Logs, observabilidade e aprendizado |
+
+Esse encadeamento orienta tanto a construção dos meus projetos quanto a forma como organizo aulas, documentação e atividades práticas.
 
 ## Experiência em produtos privados
 
@@ -146,10 +158,20 @@ Os estudos de caso abaixo representam trabalho mantido em repositórios privados
 
 ## Docência e produção de conhecimento
 
+Meu portfólio docente conecta fundamentos, engenharia, operação e competências humanas. Os materiais partem de problemas reconhecíveis, constroem a teoria de forma progressiva e terminam em aplicação, análise ou prática.
+
 | Disciplina | Abordagem |
 |---|---|
 | **Back-End Frameworks** | Java, Spring Boot, HTTP, REST, injeção de dependência, arquitetura em camadas, persistência e testes de API. |
-| **Engenharia de Software** | Processos, Ágil, DevOps, histórias de usuário, critérios de aceite, backlog e decisões de projeto. |
+| **Engenharia de Software** | Processos, métodos ágeis, histórias de usuário, critérios de aceite, backlog e decisões de projeto. |
+| **Engenharia de Requisitos** | Elicitação, stakeholders, análise, UML, casos de uso, user stories, priorização, SRS, validação e rastreabilidade. |
+| **Arquitetura de Software** | Decisões e trade-offs, stakeholders, visões, estilos clássicos, SOA, microsserviços, sistemas distribuídos e documentação arquitetural. |
+| **Fábrica de Software** | Estratégia, viabilidade, métodos de desenvolvimento, infraestrutura, escopo, tempo, custos, qualidade, equipes, comunicação, riscos e aquisições. |
+| **Teste de Software** | Qualidade orientada a risco, causa raiz, testes estáticos e dinâmicos, caixa-preta e caixa-branca, decisão, estados, exploração, planejamento e métricas. |
+| **DevOps** | Cultura e colaboração, Ágil, CI/CD, máquinas virtuais, containers, Docker, Kubernetes, Helm, logs e observabilidade. |
+| **Redes de Computadores** | Evolução e tipos de redes, topologias, modelos OSI e TCP/IP, DNS, TCP/UDP e protocolos de aplicação. |
+| **Gestão de Times em TI** | Estruturas de equipe, gestão macro e micro, comunicação, modelos tradicionais, crise do software, Scrum e Kanban. |
+| **Storytelling** | Estrutura narrativa, conexão e significado, arquétipos, roteiro, comunicação técnica, games e design. |
 | **Linguagens Formais e Autômatos** | Gramáticas, expressões regulares, AFD/AFN, autômatos com pilha, Turing e decidibilidade. |
 | **Tópicos Avançados em Computação** | Stacks, arquiteturas, trade-offs, ADRs, SPA, SSR, BFF, mobile e critérios de decisão técnica. |
 | **Microcontroladores e Microprocessadores** | Arduino, eletrônica, GPIO, sensores, PWM, interrupções, UART, I2C, SPI e máquinas de estado. |
