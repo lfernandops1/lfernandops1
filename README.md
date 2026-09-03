@@ -10,7 +10,7 @@
 
 Sou **Engenheiro de Software, profissional de Qualidade de Software e Professor Universitário**. Minha atuação percorre o ciclo completo de um produto: descoberta e requisitos, arquitetura, desenvolvimento, testes, entrega contínua, observabilidade, documentação e formação de profissionais de tecnologia.
 
-Tenho base forte em **Java e Spring Boot** para construção de APIs, segurança e soluções orientadas a domínio. No ecossistema **TypeScript**, desenvolvo experiências web, mobile e desktop com React, Angular, React Native, Expo e Electron. Conecto essas competências a práticas de **QA, DevOps, CI/CD, containers e observabilidade**.
+Tenho base forte em **Java e Spring Boot** para construção de APIs, segurança e soluções orientadas a domínio. No ecossistema **TypeScript**, desenvolvo experiências web, mobile e desktop com React, Angular, React Native, Expo e Electron. Conecto essas competências a práticas de **automação de testes, QA, DevOps, CI/CD, containers e observabilidade**.
 
 > Transformo regras de negócio complexas em produtos compreensíveis, testáveis e sustentáveis.
 
@@ -39,10 +39,12 @@ Tenho base forte em **Java e Spring Boot** para construção de APIs, segurança
 
 ### Qualidade de Software — Toledo do Brasil
 
-- Planejamento e execução de validações funcionais e regressivas.
-- Organização de mudanças de release em frentes testáveis e rastreáveis.
-- Investigação de autenticação, autorização, permissões, logs, exceções e integrações.
-- Contribuição com melhorias em UI/UX, qualidade, código, arquitetura e processos ágeis.
+- Planejamento e execução de testes funcionais, regressivos e automatizados em sistemas corporativos.
+- Desenvolvimento e manutenção de automação web com Java, Selenium WebDriver e JUnit.
+- Estruturação de testes com Page Objects, DSLs, DAOs, utilitários e componentes reutilizáveis.
+- Evolução de fluxos administrativos complexos, incluindo demandas, chamados, usuários e assinaturas, com adaptação contínua a mudanças de interface e regras de negócio.
+- Organização de suítes de smoke e regressão alinhadas às versões do produto, com rastreabilidade dos cenários e manutenção de casos de uso.
+- Investigação de autenticação, autorização, permissões, dados, logs, exceções e integrações, além de contribuições em UI/UX, arquitetura e processos ágeis.
 
 ### Professor Universitário — UNINASSAU
 
@@ -209,6 +211,7 @@ Tecnologias presentes nos meus projetos e práticas que aplico no trabalho, na c
       <h3>Qualidade e testes</h3>
       <p>
         <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
+        <img src="https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium WebDriver" />
         <img src="https://img.shields.io/badge/Testcontainers-1E9B8A?style=flat-square&logo=docker&logoColor=white" alt="Testcontainers" />
         <img src="https://img.shields.io/badge/WireMock-6B7280?style=flat-square" alt="WireMock" />
         <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
@@ -216,7 +219,7 @@ Tecnologias presentes nos meus projetos e práticas que aplico no trabalho, na c
         <img src="https://img.shields.io/badge/JaCoCo-C71A36?style=flat-square" alt="JaCoCo" />
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
       </p>
-      <p><strong>Práticas:</strong> testes funcionais e regressivos, análise de risco, caixa-preta e caixa-branca, testes estáticos e dinâmicos, decisão e estados, exploração, causa raiz, cobertura e métricas.</p>
+      <p><strong>Práticas:</strong> automação web, Page Object, DSLs de teste, suítes de smoke e regressão, validação de dados com DAO/JDBC, análise de risco, caixa-preta e caixa-branca, testes estáticos e dinâmicos, causa raiz, cobertura e métricas.</p>
     </td>
   </tr>
   <tr>
@@ -224,6 +227,7 @@ Tecnologias presentes nos meus projetos e práticas que aplico no trabalho, na c
       <h3>DevOps, infraestrutura e redes</h3>
       <p>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
         <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
         <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" />
@@ -233,7 +237,7 @@ Tecnologias presentes nos meus projetos e práticas que aplico no trabalho, na c
         <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
         <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
       </p>
-      <p><strong>Práticas:</strong> cultura DevOps, CI/CD, versionamento, builds automatizados, máquinas virtuais, containers, volumes, orquestração, configuração e deploy; modelos OSI e TCP/IP, DNS, TCP/UDP e protocolos de aplicação.</p>
+      <p><strong>Práticas:</strong> cultura DevOps, CI/CD, versionamento, gestão de branches, integração em Azure Repos, builds automatizados, máquinas virtuais, containers, volumes, orquestração, configuração e deploy; modelos OSI e TCP/IP, DNS, TCP/UDP e protocolos de aplicação.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Dados e observabilidade</h3>
