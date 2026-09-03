@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/header-v3.svg" alt="Fernando Santos — Software Developer" />
+<img width="100%" src="./assets/header-v4.svg" alt="Fernando Santos — Engenharia de Software, Qualidade, Produto e Docência" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fernando-p-santos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -6,66 +6,99 @@
   <a href="https://github.com/lfernandops1?tab=repositories"><img src="https://img.shields.io/badge/Repositórios-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" /></a>
 </p>
 
-## Sobre
+## Perfil
 
-Desenvolvedor de software com base forte em **Java e Spring Boot**, construindo APIs REST, fluxos de autenticação e soluções orientadas a domínio. Minha experiência inclui produtos públicos e privados com segurança, persistência relacional, observabilidade, ambientes em Docker e testes automatizados.
+Sou **Engenheiro de Software, profissional de Qualidade de Software e Professor Universitário**. Minha atuação combina desenvolvimento, testes, arquitetura, documentação técnica, descoberta de produto e formação de profissionais de tecnologia.
 
-No ecossistema **TypeScript**, desenvolvo interfaces web, mobile e desktop com React, Angular, React Native, Expo e Electron. Essa combinação conecta uma base sólida de backend a experiências simples e funcionais.
+Tenho base forte em **Java e Spring Boot** para construção de APIs, segurança e soluções orientadas a domínio. No ecossistema **TypeScript**, desenvolvo experiências web, mobile e desktop com React, Angular, React Native, Expo e Electron.
 
-```text
-Backend          Java 17/21, Spring Boot, .NET e APIs REST
-Engenharia       Segurança, domínio, testes e observabilidade
-Infraestrutura   PostgreSQL, Docker, Flyway e Testcontainers
-Produtos         React, Angular, React Native, Expo e Electron
-```
+> Transformo regras de negócio complexas em produtos compreensíveis, testáveis e sustentáveis.
 
-## Stack principal
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <h3>Engenharia</h3>
+      <p>APIs, arquitetura, segurança, persistência e integração de aplicações.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Qualidade</h3>
+      <p>Estratégia de testes, regressão, rastreabilidade e investigação ponta a ponta.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Produto</h3>
+      <p>Regras de negócio, jornadas, casos de uso, backlogs e decisões técnicas.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Docência</h3>
+      <p>Aulas práticas, avaliações, laboratórios e formação em Ciência da Computação.</p>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java_17%20%7C%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17 e 21" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
-  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=101820" alt="Swagger" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-</p>
+## Atuação profissional
+
+### Qualidade de Software — Toledo do Brasil
+
+- Planejamento e execução de validações funcionais e regressivas.
+- Organização de mudanças de release em frentes testáveis e rastreáveis.
+- Investigação de autenticação, autorização, permissões, logs, exceções e integrações.
+- Contribuição com melhorias em UI/UX, qualidade, código, arquitetura e processos ágeis.
+
+### Professor Universitário — UNINASSAU
+
+- Planejamento e condução de disciplinas em Ciência da Computação.
+- Produção de aulas, apresentações, avaliações, roteiros e atividades práticas.
+- Uso de live coding, Postman, Tinkercad, estudos de caso e avaliação diagnóstica.
+- Tradução de conceitos complexos em sequências didáticas progressivas e aplicáveis.
+
+## Resultados em contexto
+
+| Evidência | Contexto |
+|---:|---|
+| **66 commits únicos** | Consolidados a partir de 5 autores em aproximadamente 15 frentes para planejamento de regressão administrativa. |
+| **28 issues estruturadas** | Backlog de implementação distribuído entre experiências mobile e administrativas, com vínculos e dependências. |
+| **16 páginas de workflow** | Guia de UX com jornadas, telas, estados, validações, exceções e cobertura funcional de um produto multiaplicação. |
+| **48 respostas analisadas** | Diagnóstico de uma turma de Java usado para adaptar o início de uma trilha prática em Spring Boot. |
 
 ## Experiência em produtos privados
 
-Os estudos de caso abaixo representam trabalho mantido em repositórios privados. Para preservar confidencialidade, apresento somente o contexto técnico e os desafios de engenharia, sem nomes, links, clientes ou detalhes proprietários.
+Os estudos de caso abaixo representam trabalho mantido em repositórios privados. Para preservar a confidencialidade, apresento apenas o contexto, as contribuições e as tecnologias, sem nomes, links, clientes ou detalhes proprietários.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Plataforma operacional multiaplicação</h3>
-      <p>Ecossistema com APIs operacional e administrativa, portais web e aplicativos móveis para diferentes perfis. Abrange autorização por papéis, jornadas transacionais, auditoria e registros financeiros.</p>
-      <p><code>Java 21</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>React</code> <code>Angular</code> <code>React Native</code></p>
+      <h3>Plataforma de transporte e logística</h3>
+      <p>Ecossistema com APIs operacional e administrativa, painel web e dois aplicativos móveis para clientes e motoristas. Inclui papéis, jornadas transacionais, upload de documentos, aprovação e operação em tempo real.</p>
+      <p><code>Java 21</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Angular</code> <code>React Native</code> <code>Expo</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>Plataforma de oportunidades profissionais</h3>
-      <p>Produto modular com identidade, MFA, sessões, perfis profissionais, organizações, equipes e publicação de oportunidades, acompanhado por métricas e controles de segurança.</p>
-      <p><code>Java 21</code> <code>Spring Security</code> <code>Flyway</code> <code>Prometheus</code> <code>React 19</code> <code>Vitest</code></p>
+      <p>Produto modular planejado da fundação técnica aos fluxos de identidade, MFA, sessões, perfis, currículos, organizações, oportunidades, candidaturas, propostas e moderação.</p>
+      <p><code>Java 21</code> <code>Spring Security</code> <code>Flyway</code> <code>Prometheus</code> <code>React 19</code> <code>Testcontainers</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Ferramenta desktop de dados e ativos</h3>
-      <p>Editor para estruturas binárias e grandes coleções de ativos, com importação, exportação, operações em lote, undo/redo, verificação de consistência e distribuição para Windows.</p>
+      <p>Editor de estruturas binárias e grandes coleções de ativos com importação, exportação, operações em lote, undo/redo, consistência, backups, rollback e distribuição para Windows.</p>
       <p><code>Electron</code> <code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Vitest</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Produto social full stack</h3>
-      <p>Aplicação modular com autenticação, registros de ocorrências, feed, conversas e alertas, integrando backend em C# com uma experiência web baseada em estado global e rotas protegidas.</p>
+      <h3>Produto social e de ocorrências</h3>
+      <p>Aplicação modular com autenticação, ocorrências, feed, conversas, alertas, rotas protegidas e backlog coordenado entre múltiplos repositórios.</p>
       <p><code>.NET</code> <code>C#</code> <code>React</code> <code>Redux Toolkit</code> <code>TypeScript</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>RPG de captura e evolução</h3>
+      <p>Projeto autoral com GDD, progressão, combate automático, áreas de caça, captura, habilidades e evolução. A documentação separa regras confirmadas, parciais, pendentes e futuras.</p>
+      <p><code>Game Design</code> <code>Domínio</code> <code>Vertical Slice</code> <code>Sprites</code> <code>Prototipação</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Inteligência de custo para motoristas</h3>
+      <p>Concepção de produto que combina preços colaborativos de combustível, geolocalização, leitura de imagens e cálculo de rentabilidade de corridas e entregas.</p>
+      <p><code>Product Discovery</code> <code>OCR</code> <code>Geolocalização</code> <code>Rotas</code> <code>Dados colaborativos</code></p>
     </td>
   </tr>
 </table>
@@ -76,28 +109,86 @@ Os estudos de caso abaixo representam trabalho mantido em repositórios privados
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/lfernandops1/autenticacao-reserva-api">Autenticação e usuários</a></h3>
-      <p>API completa de autenticação, autorização e gestão de usuários com JWT, refresh tokens, controle de acesso e histórico de operações.</p>
+      <p>API de identidade, autorização e gestão de usuários com JWT, refresh tokens, revogação, papéis, políticas de senha e histórico de operações.</p>
       <p><code>Java 17</code> <code>Spring Security</code> <code>PostgreSQL</code> <code>Testcontainers</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/lfernandops1/estoque-api">Controle de estoque</a></h3>
-      <p>API para produtos, entradas e saídas de estoque, filtros dinâmicos e histórico de movimentações, com testes unitários e de integração.</p>
+      <p>API para produtos, entradas, saídas, histórico de movimentações e filtros dinâmicos, com testes unitários e de integração.</p>
       <p><code>Spring Boot</code> <code>JPA</code> <code>Docker</code> <code>OpenAPI</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/lfernandops1/conversor-moeda">Conversor de moedas</a></h3>
-      <p>Serviço reativo de conversão monetária com integração externa, validação de códigos, cache local e tratamento centralizado de erros.</p>
+      <p>Serviço reativo com integração externa, validação de códigos, cache local, tratamento centralizado de falhas e testes de contrato.</p>
       <p><code>WebFlux</code> <code>Reactor</code> <code>Ehcache</code> <code>WireMock</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/lfernandops1/proj-mobile">Interface mobile</a></h3>
-      <p>Fluxo de autenticação e cadastro mobile com navegação em etapas, validação de formulários e componentes responsivos.</p>
+      <h3><a href="https://github.com/lfernandops1/proj-mobile">Autenticação mobile</a></h3>
+      <p>Fluxo de acesso e cadastro em etapas, com navegação, formulários validados e componentes responsivos.</p>
       <p><code>React Native</code> <code>Expo</code> <code>TypeScript</code> <code>Formik</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lfernandops1/todolist">API de tarefas</a></h3>
+      <p>Serviço para criação, acompanhamento, atualização e filtragem de tarefas.</p>
+      <p><code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Docker</code> <code>JUnit</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Outros repositórios</h3>
+      <p>Projetos de estudo, provas de conceito e implementações voltadas a APIs, interfaces e experimentação de tecnologias.</p>
+      <p><a href="https://github.com/lfernandops1?tab=repositories">Explorar todos os repositórios públicos</a></p>
+    </td>
+  </tr>
 </table>
+
+## Docência e produção de conhecimento
+
+| Disciplina | Abordagem |
+|---|---|
+| **Back-End Frameworks** | Java, Spring Boot, HTTP, REST, injeção de dependência, arquitetura em camadas, persistência e testes de API. |
+| **Engenharia de Software** | Processos, Ágil, DevOps, histórias de usuário, critérios de aceite, backlog e decisões de projeto. |
+| **Linguagens Formais e Autômatos** | Gramáticas, expressões regulares, AFD/AFN, autômatos com pilha, Turing e decidibilidade. |
+| **Tópicos Avançados em Computação** | Stacks, arquiteturas, trade-offs, ADRs, SPA, SSR, BFF, mobile e critérios de decisão técnica. |
+| **Microcontroladores e Microprocessadores** | Arduino, eletrônica, GPIO, sensores, PWM, interrupções, UART, I2C, SPI e máquinas de estado. |
+
+## Stack e práticas
+
+**Backend e arquitetura**
+
+<p>
+  <img src="https://img.shields.io/badge/Java_17%20%7C%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17 e 21" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring WebFlux" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=101820" alt="OpenAPI" />
+</p>
+
+**Web, mobile e desktop**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+</p>
+
+**Dados, infraestrutura e qualidade**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
+  <img src="https://img.shields.io/badge/Testcontainers-1E9B8A?style=flat-square&logo=docker&logoColor=white" alt="Testcontainers" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+</p>
 
 ## GitHub em números
 
@@ -109,6 +200,14 @@ Os estudos de caso abaixo representam trabalho mantido em repositórios privados
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lfernandops1&theme=github_dark" alt="Estatísticas do GitHub" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lfernandops1&theme=github_dark" alt="Repositórios por linguagem" />
 </p>
+
+## Contato
+
+Estou aberto a conversas sobre **engenharia de software, qualidade, arquitetura de produtos, documentação técnica e educação em tecnologia**.
+
+- [LinkedIn](https://www.linkedin.com/in/fernando-p-santos/)
+- [E-mail](mailto:contatofernando2021@gmail.com)
+- [Repositórios públicos](https://github.com/lfernandops1?tab=repositories)
 
 ---
 

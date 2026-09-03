@@ -1,0 +1,54 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Fernando Santos — Engenharia de Software, Qualidade, Produto e Docência</title>
+  <desc id="description">Banner profissional em tons de azul e verde para o perfil de Fernando Santos.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="56" y1="18" x2="1160" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06111F"/>
+      <stop offset="0.5" stop-color="#0B2138"/>
+      <stop offset="1" stop-color="#06413F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="65" y1="0" x2="935" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1065 42) rotate(135) scale(380 255)">
+      <stop stop-color="#2DD4BF" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#94A3B8" stroke-opacity="0.065"/>
+    </pattern>
+    <filter id="softGlow" x="-30%" y="-100%" width="160%" height="300%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="340" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#glow)"/>
+
+  <circle cx="1085" cy="68" r="162" stroke="#5EEAD4" stroke-opacity="0.1" stroke-width="34"/>
+  <circle cx="1085" cy="68" r="96" stroke="#38BDF8" stroke-opacity="0.14" stroke-width="2"/>
+  <path d="M64 279H1136" stroke="url(#accent)" stroke-opacity="0.3"/>
+  <path d="M64 284H596" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" filter="url(#softGlow)" opacity="0.42"/>
+
+  <rect x="64" y="48" width="356" height="32" rx="16" fill="#0E2B45" stroke="#38BDF8" stroke-opacity="0.42"/>
+  <text x="242" y="69" text-anchor="middle" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.7">ENGENHARIA / QUALIDADE / DOCÊNCIA</text>
+
+  <text x="64" y="151" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">Fernando Santos</text>
+  <text x="67" y="198" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" letter-spacing="0.35">Produtos digitais robustos, bem testados e bem explicados</text>
+  <text x="67" y="232" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" letter-spacing="0.25">Backend, experiências multiplataforma, produto e formação em tecnologia</text>
+
+  <text x="66" y="312" fill="#7DD3FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.05">JAVA 17 / 21</text>
+  <circle cx="184" cy="307" r="2.5" fill="#2DD4BF"/>
+  <text x="199" y="312" fill="#99F6E4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.05">SPRING BOOT</text>
+  <circle cx="328" cy="307" r="2.5" fill="#38BDF8"/>
+  <text x="343" y="312" fill="#7DD3FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.05">QA</text>
+  <circle cx="379" cy="307" r="2.5" fill="#2DD4BF"/>
+  <text x="394" y="312" fill="#99F6E4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.05">TYPESCRIPT</text>
+  <circle cx="508" cy="307" r="2.5" fill="#38BDF8"/>
+  <text x="523" y="312" fill="#7DD3FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.05">PRODUTO</text>
+  <circle cx="607" cy="307" r="2.5" fill="#2DD4BF"/>
+  <text x="622" y="312" fill="#99F6E4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.05">ENSINO</text>
+</svg>
