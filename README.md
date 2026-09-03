@@ -178,39 +178,97 @@ Meu portfólio docente conecta fundamentos, engenharia, operação e competênci
 
 ## Stack e práticas
 
-**Backend e arquitetura**
+Tecnologias presentes nos meus projetos e práticas que aplico no trabalho, na construção de produtos e na docência.
 
-<p>
-  <img src="https://img.shields.io/badge/Java_17%20%7C%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17 e 21" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring WebFlux" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=101820" alt="OpenAPI" />
-</p>
-
-**Web, mobile e desktop**
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
-</p>
-
-**Dados, infraestrutura e qualidade**
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
-  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
-  <img src="https://img.shields.io/badge/Testcontainers-1E9B8A?style=flat-square&logo=docker&logoColor=white" alt="Testcontainers" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Backend e APIs</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Java_17%20%7C%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17 e 21" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+        <img src="https://img.shields.io/badge/WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring WebFlux" />
+        <img src="https://img.shields.io/badge/.NET_%7C_C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET e C#" />
+        <img src="https://img.shields.io/badge/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=101820" alt="OpenAPI" />
+      </p>
+      <p><strong>Práticas:</strong> REST, JWT, autorização por papéis, validação, tratamento de erros, programação reativa, integrações e contratos de API.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Arquitetura e requisitos</h3>
+      <p><code>Arquitetura em camadas</code> <code>Monólito modular</code> <code>SOA</code> <code>Microsserviços</code> <code>Sistemas distribuídos</code> <code>UML</code> <code>ADRs</code></p>
+      <p><strong>Práticas:</strong> decisões e trade-offs, visões arquiteturais, elicitação, stakeholders, casos de uso, user stories, SRS, priorização, validação e rastreabilidade.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Web, mobile e desktop</h3>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      </p>
+      <p><strong>Práticas:</strong> componentização, gerenciamento de estado, navegação, formulários, responsividade, fluxos por perfil e aplicações multiplataforma.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Qualidade e testes</h3>
+      <p>
+        <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
+        <img src="https://img.shields.io/badge/Testcontainers-1E9B8A?style=flat-square&logo=docker&logoColor=white" alt="Testcontainers" />
+        <img src="https://img.shields.io/badge/WireMock-6B7280?style=flat-square" alt="WireMock" />
+        <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+        <img src="https://img.shields.io/badge/ArchUnit-334155?style=flat-square" alt="ArchUnit" />
+        <img src="https://img.shields.io/badge/JaCoCo-C71A36?style=flat-square" alt="JaCoCo" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      </p>
+      <p><strong>Práticas:</strong> testes funcionais e regressivos, análise de risco, caixa-preta e caixa-branca, testes estáticos e dinâmicos, decisão e estados, exploração, causa raiz, cobertura e métricas.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>DevOps, infraestrutura e redes</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+        <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+        <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
+      </p>
+      <p><strong>Práticas:</strong> cultura DevOps, CI/CD, versionamento, builds automatizados, máquinas virtuais, containers, volumes, orquestração, configuração e deploy; modelos OSI e TCP/IP, DNS, TCP/UDP e protocolos de aplicação.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Dados e observabilidade</h3>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
+        <img src="https://img.shields.io/badge/Ehcache-B91C1C?style=flat-square" alt="Ehcache" />
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+      </p>
+      <p><strong>Práticas:</strong> modelagem relacional, migrações versionadas, persistência, cache, logs centralizados, métricas, rastros, correlação de requisições e investigação de falhas.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Produto e gestão</h3>
+      <p><code>Scrum</code> <code>Kanban</code> <code>Lean</code> <code>MoSCoW</code> <code>MVP</code> <code>EAP/WBS</code> <code>RACI</code> <code>ISO/IEC 25010</code></p>
+      <p><strong>Práticas:</strong> descoberta, viabilidade, escopo, estimativas, custos, riscos, backlog, critérios de aceite, gestão de mudanças, comunicação e entrega de valor.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Ensino e comunicação</h3>
+      <p><code>Live coding</code> <code>PBL</code> <code>Storytelling</code> <code>Estudos de caso</code> <code>Laboratórios</code> <code>Rubricas</code></p>
+      <p><strong>Práticas:</strong> planejamento didático, avaliação diagnóstica, construção progressiva de conceitos, documentação técnica, facilitação, roteiros e aprendizagem baseada em problemas.</p>
+    </td>
+  </tr>
+</table>
 
 ## GitHub em números
 
