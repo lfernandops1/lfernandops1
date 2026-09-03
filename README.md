@@ -52,29 +52,19 @@ Tenho base forte em **Java e Spring Boot** para construção de APIs, segurança
 - Tradução de conceitos complexos em sequências didáticas progressivas e aplicáveis.
 - Formação multidisciplinar em engenharia, arquitetura, requisitos, qualidade, DevOps, redes, liderança, comunicação e fundamentos da computação.
 
-## Resultados em contexto
-
-| Evidência | Contexto |
-|---:|---|
-| **66 commits únicos** | Consolidados a partir de 5 autores em aproximadamente 15 frentes para planejamento de regressão administrativa. |
-| **28 issues estruturadas** | Backlog de implementação distribuído entre experiências mobile e administrativas, com vínculos e dependências. |
-| **16 páginas de workflow** | Guia de UX com jornadas, telas, estados, validações, exceções e cobertura funcional de um produto multiaplicação. |
-| **48 respostas analisadas** | Diagnóstico de uma turma de Java usado para adaptar o início de uma trilha prática em Spring Boot. |
-| **1.163 páginas de conteúdo** | Acervo recente de 29 materiais didáticos consolidado em 8 frentes complementares de Ciência da Computação. |
-
 ## Do requisito à operação
 
-Minha experiência profissional e docente se encontra em uma visão integrada do software:
+Atuo de forma integrada em diferentes etapas do ciclo de software:
 
 | Descoberta | Estrutura | Construção | Entrega | Confiança | Evolução |
 |---|---|---|---|---|---|
 | Requisitos, stakeholders e valor | Arquitetura, dados e decisões | APIs e experiências multiplataforma | CI/CD, containers e orquestração | Testes, métricas e rastreabilidade | Logs, observabilidade e aprendizado |
 
-Esse encadeamento orienta tanto a construção dos meus projetos quanto a forma como organizo aulas, documentação e atividades práticas.
+Essa visão orienta meus projetos, minha documentação e a forma como organizo aulas e atividades práticas.
 
 ## Experiência em produtos privados
 
-Os estudos de caso abaixo representam trabalho mantido em repositórios privados. Para preservar a confidencialidade, apresento apenas o contexto, as contribuições e as tecnologias, sem nomes, links, clientes ou detalhes proprietários.
+Também atuo em projetos mantidos em repositórios privados. Para respeitar a confidencialidade, descrevo apenas os desafios, minhas contribuições e as tecnologias utilizadas, sem expor nomes, links, clientes ou informações proprietárias.
 
 <table>
   <tr>
@@ -158,7 +148,7 @@ Os estudos de caso abaixo representam trabalho mantido em repositórios privados
 
 ## Docência e produção de conhecimento
 
-Meu portfólio docente conecta fundamentos, engenharia, operação e competências humanas. Os materiais partem de problemas reconhecíveis, constroem a teoria de forma progressiva e terminam em aplicação, análise ou prática.
+Na docência, conecto fundamentos, engenharia, operação e competências humanas. Organizo as aulas a partir de problemas reconhecíveis, avanço pelos conceitos de forma progressiva e concluo com aplicação, análise ou prática.
 
 | Disciplina | Abordagem |
 |---|---|
