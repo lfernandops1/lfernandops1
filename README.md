@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/header-v2.svg" alt="Fernando Santos — Software Developer" />
+<img width="100%" src="./assets/header-v3.svg" alt="Fernando Santos — Software Developer" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fernando-p-santos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -8,21 +8,21 @@
 
 ## Sobre
 
-Desenvolvedor de software com base forte em **Java e Spring Boot**, construindo APIs REST, fluxos de autenticação e soluções orientadas a domínio. Meus projetos exploram segurança com JWT, persistência com PostgreSQL, ambientes em Docker e testes automatizados.
+Desenvolvedor de software com base forte em **Java e Spring Boot**, construindo APIs REST, fluxos de autenticação e soluções orientadas a domínio. Minha experiência inclui produtos públicos e privados com segurança, persistência relacional, observabilidade, ambientes em Docker e testes automatizados.
 
-No ecossistema **TypeScript**, desenvolvo interfaces web e mobile, incluindo React Native e Expo. Essa combinação conecta uma base sólida de backend a experiências simples e funcionais.
+No ecossistema **TypeScript**, desenvolvo interfaces web, mobile e desktop com React, Angular, React Native, Expo e Electron. Essa combinação conecta uma base sólida de backend a experiências simples e funcionais.
 
 ```text
-Foco atual       Java 17, Spring Boot e APIs REST
-Engenharia       Segurança, validação, testes e documentação
-Infraestrutura   PostgreSQL, Docker, Gradle e Testcontainers
-Produtos         TypeScript, React Native e Expo
+Backend          Java 17/21, Spring Boot, .NET e APIs REST
+Engenharia       Segurança, domínio, testes e observabilidade
+Infraestrutura   PostgreSQL, Docker, Flyway e Testcontainers
+Produtos         React, Angular, React Native, Expo e Electron
 ```
 
 ## Stack principal
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17" />
+  <img src="https://img.shields.io/badge/Java_17%20%7C%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17 e 21" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -30,11 +30,47 @@ Produtos         TypeScript, React Native e Expo
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
   <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=101820" alt="Swagger" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
 </p>
 
-## Projetos em destaque
+## Experiência em produtos privados
+
+Os estudos de caso abaixo representam trabalho mantido em repositórios privados. Para preservar confidencialidade, apresento somente o contexto técnico e os desafios de engenharia, sem nomes, links, clientes ou detalhes proprietários.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Plataforma operacional multiaplicação</h3>
+      <p>Ecossistema com APIs operacional e administrativa, portais web e aplicativos móveis para diferentes perfis. Abrange autorização por papéis, jornadas transacionais, auditoria e registros financeiros.</p>
+      <p><code>Java 21</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>React</code> <code>Angular</code> <code>React Native</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Plataforma de oportunidades profissionais</h3>
+      <p>Produto modular com identidade, MFA, sessões, perfis profissionais, organizações, equipes e publicação de oportunidades, acompanhado por métricas e controles de segurança.</p>
+      <p><code>Java 21</code> <code>Spring Security</code> <code>Flyway</code> <code>Prometheus</code> <code>React 19</code> <code>Vitest</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Ferramenta desktop de dados e ativos</h3>
+      <p>Editor para estruturas binárias e grandes coleções de ativos, com importação, exportação, operações em lote, undo/redo, verificação de consistência e distribuição para Windows.</p>
+      <p><code>Electron</code> <code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Vitest</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Produto social full stack</h3>
+      <p>Aplicação modular com autenticação, registros de ocorrências, feed, conversas e alertas, integrando backend em C# com uma experiência web baseada em estado global e rotas protegidas.</p>
+      <p><code>.NET</code> <code>C#</code> <code>React</code> <code>Redux Toolkit</code> <code>TypeScript</code></p>
+    </td>
+  </tr>
+</table>
+
+## Projetos públicos em destaque
 
 <table>
   <tr>
